@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">App_Trabalho</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="string_txtcadastro">Cadastro</string>
+    <string name="txtbotaov">Return</string>
+    <string name="txtbotaos">Save</string>
+    <string name="txtModelos">Models</string>
+    <string name="txtNome">Name:</string>
+    <string name="txtnomehint">Client Name...</string>
+    <string name="txtmodelohint">Model...</string>
+
+    <string-array name="marcas">
+        <item>Select the Brand…</item>
+        <item>Yamaha</item>
+        <item>Honda</item>
+        <item>Kawasaki</item>
+        <item>BMW</item>
+        <item>Harley Davidson</item>
+        <item>Kasinski</item>
+        <item>Suzuki</item>
+        <item>Ducati</item>
+        <item>Triumph</item>
+    </string-array>
+
+
+
+</resources>
